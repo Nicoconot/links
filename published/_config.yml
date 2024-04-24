@@ -1,6 +1,8 @@
 # YOUR NAME OR TITLE OF YOUR SITE
 name: Nico Spadoni
 
+baseurl: /published/
+
 # YOUR BRAND/PERSONAL TAGLINE
 tagline: Unity/C# Game Developer and Technical Game Designer. 
 
